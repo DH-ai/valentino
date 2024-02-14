@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded",function(){
     butt_no = document.getElementById("butn2");
     
 })
-let arr = ["Think Once Again", "But why?? He loves You so much", "Ahh common don't do this to him","Sneha What happen yrr, He is Such a good ladka ","AHHAHA Now he has become so sad <br> do you really want that "]
+let arr = ["Think Once Again", "But why?? He loves You so much", "Ahh c'mon don't do this to him","Sneha What happen yrr, He is Such a good ladka ","AHHAHA Now he has become so sad <br> do you really want that "]
 let i =0
 let j = 1;
 function no(){
