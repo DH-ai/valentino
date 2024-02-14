@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 53, 161);
+    scrollbar-width: thin;
+    
+}
+.hd{
+    text-align: center;
+    background-image: linear-gradient(to bottom, #ffffff, #fb00ff);
+    color: transparent;
+    -webkit-background-clip: text; /* For webkit browsers (Chrome, Safari) */
+    background-clip: text;
+    font-size: 2vw;
+    font-stretch: condensed;
+    font-weight:bold;
+    letter-spacing: 5px;
+    
+    
+}
+.letter{
+    height: 80vh;
+    width: 70vh;
+    background: white;
+    margin: auto;
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: cadetblue;
+    padding: 30px;
+}
