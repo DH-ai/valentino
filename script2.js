@@ -16,7 +16,7 @@ function no(){
     butt_yes.innerHTML  = arr[i]
     butt_yes.style.height = j*90 +"px"
     butt_yes.style.width = j*80 +"px"
-    window.close()
+    butt_yes.style.fontSize=10*(j+1) + "px";
     i++
     j++;
     if (i>4){

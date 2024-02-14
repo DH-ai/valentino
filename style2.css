@@ -5,7 +5,7 @@ body{
 }
 .hd{
     text-align: center;
-    background-image: linear-gradient(to bottom, #ffffff, #fb00ff);
+    background-image: linear-gradient(to bottom, #ff692e, #2f00ff);
     color: transparent;
     -webkit-background-clip: text; /* For webkit browsers (Chrome, Safari) */
     background-clip: text;
@@ -13,12 +13,13 @@ body{
     font-stretch: condensed;
     font-weight:bold;
     letter-spacing: 5px;
+    text-decoration: underline;
     
     
 }
 .letter{
-    height: 80vh;
-    width: 70vh;
+    height: auto;
+    width: 70rem;
     background: white;
     margin: auto;
     font-family: "Sacramento", cursive;
@@ -27,6 +28,8 @@ body{
     font-size: 25px;
     border-style: dashed;
     border-radius: 10px;
-    border-color: cadetblue;
+    border-color: rgb(137, 122, 50);
     padding: 30px;
+    text-decoration: underline ;
+    text-underline-offset: 8px;
 }

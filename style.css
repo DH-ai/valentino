@@ -23,7 +23,7 @@ body{
 .ans{
     margin: auto;
     width: 500px;
-    height: 350px;
+    height: auto;
     background-color: rgb(255, 255, 255);
     border: solid black;
     text-align: center;
